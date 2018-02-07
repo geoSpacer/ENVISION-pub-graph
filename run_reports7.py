@@ -5,8 +5,7 @@
 # Author:      olsenk
 #
 # Created:     23/03/2015
-# Copyright:   (c) olsenk 2015
-# Licence:     <your licence>
+# updated: 21 February 2018
 #-------------------------------------------------------------------------------
 
 import reporter7_PMG_in_HS_fire_cumulative
