@@ -2,11 +2,10 @@
 # Name:        module1
 # Purpose:
 #
-# Author:      olsenk
+# Author:      Keith Olsen
 #
 # Created:     01/12/2014
-# Copyright:   (c) olsenk 2014
-# Licence:     <your licence>
+# updated: 21 January 2018
 #-------------------------------------------------------------------------------
 #!/usr/bin/env python
 
@@ -888,4 +887,3 @@ def getScenarioLabels(scenario):
         labelNameShort = 'Error'
 
     return ([colorVal,labelName,labelNameShort])
-
